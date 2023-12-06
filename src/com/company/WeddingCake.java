@@ -1,0 +1,16 @@
+package com.company;
+
+public class WeddingCake extends Cake {
+    private int tiers;
+    public WeddingCake(){
+        super("Red Velvet");
+    }
+
+    public int getTiers() {
+        return tiers;
+    }
+
+    public void setTiers(int tiers) {
+        this.tiers = tiers;
+    }
+}
