@@ -1,4 +1,4 @@
-package AbstractionPractice;
+package abstractionpractice;
 
 public abstract class Shape {
     abstract double calculateArea(); //abstract method. only needs the return value and a signature. implementation will be done in subclass

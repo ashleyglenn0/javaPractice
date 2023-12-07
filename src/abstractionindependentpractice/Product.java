@@ -1,4 +1,4 @@
-package AbstractionIndependentPractice;
+package abstractionindependentpractice;
 
 public interface Product {
 

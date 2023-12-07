@@ -1,4 +1,4 @@
-package PolymorphicIndependentPractice;
+package polymorphicindependentpractice;
 
 public class Apple extends Fruit {
 

@@ -1,4 +1,4 @@
-package PolymorphismPractice;
+package polymorphismpractice;
 
 public class Cat extends Animal {
     @Override

@@ -1,4 +1,4 @@
-package PolymorphismPractice;
+package polymorphismpractice;
 
 public class Animal {
     public void makeSound(){

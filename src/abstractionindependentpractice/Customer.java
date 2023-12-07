@@ -1,4 +1,4 @@
-package AbstractionIndependentPractice;
+package abstractionindependentpractice;
 
 public class Customer {
     public static void main(String[] args) {

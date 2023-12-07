@@ -1,4 +1,4 @@
-package AbstractionIndependentPractice;
+package abstractionindependentpractice;
 
 public class Book implements Product {
     private double price;

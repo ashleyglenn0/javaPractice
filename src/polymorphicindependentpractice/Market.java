@@ -1,4 +1,4 @@
-package PolymorphicIndependentPractice;
+package polymorphicindependentpractice;
 
 public class Market {
     public static void main(String[] args){

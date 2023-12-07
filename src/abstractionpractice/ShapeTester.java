@@ -1,4 +1,4 @@
-package AbstractionPractice;
+package abstractionpractice;
 
 public class ShapeTester {
     public static void main(String [] args){

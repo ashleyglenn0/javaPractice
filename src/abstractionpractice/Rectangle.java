@@ -1,4 +1,4 @@
-package AbstractionPractice;
+package abstractionpractice;
 
 public class Rectangle extends Shape {
     private double length;
